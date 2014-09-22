@@ -1,0 +1,22 @@
+DONE
+Do something nice when all of the photos have been renamed.
+Implement option to append original file name.
+Ensure user specified separator is being used.
+Have restore default settings actually do something.
+Fix tab order.
+Provide a warning if the user is going to overwrite an existing file.
+Deal with regression: can no longer drag parameters in the table to change order.
+Make it possible to edit fields in the parameters list.
+Make the default parameters stick.
+Don't crash when file in input directory has been deleted.
+Fix layout of second panel.
+
+TODO
+Allow writing photos to the input directory. (Input dir == Output dir)
+Allow the user to go back and name more photos when they are done with the current set.
+Fix image always showing "loading" mouse icon.
+Add option to export paramaters so that they can be imported on another computer.
+Have focus start in the right spot at very beginning.
+Add a right click menu with "move up", "move down", and "delete" to the parameters table.
+In directory chooser, deal with really long file names.
+
